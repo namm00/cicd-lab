@@ -15,4 +15,4 @@ def health():
 
 @app.get("/version")
 def version():
-    return {"version": "v1"}
+    return {"version": "v2"}
